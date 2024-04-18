@@ -67,7 +67,7 @@ int main()
         case 5: res(num1, 2, 's'); break;
         case 6: res(num1, 0.5, 'r'); break;
         case 7: res(num1, 3, 'c'); break;
-        case 8: res(num1, 1/3, 'b'); break;
+        case 8: res(num1, 1.0/3.0, 'b'); break;
         case 9: 
             num2 = getNumber("Please enter the exponent: ");
             res(num1,num2, 'e');
