@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/chaitanyasingh/Documents/Project/8/build",
+  "command": "/usr/bin/clang++  -I/Users/chaitanyasingh/Documents/Project/8/build/_deps/fmt-src/include -g -std=gnu++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -o CMakeFiles/GuiCalc.dir/main.cpp.o -c /Users/chaitanyasingh/Documents/Project/8/guiCalc/main.cpp",
+  "file": "/Users/chaitanyasingh/Documents/Project/8/guiCalc/main.cpp",
+  "output": "CMakeFiles/GuiCalc.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/chaitanyasingh/Documents/Project/8/build/_deps/fmt-build",
+  "command": "/usr/bin/clang++  -I/Users/chaitanyasingh/Documents/Project/8/build/_deps/fmt-src/include -g -std=gnu++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -o CMakeFiles/fmt.dir/src/format.cc.o -c /Users/chaitanyasingh/Documents/Project/8/build/_deps/fmt-src/src/format.cc",
+  "file": "/Users/chaitanyasingh/Documents/Project/8/build/_deps/fmt-src/src/format.cc",
+  "output": "_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o"
+},
+{
+  "directory": "/Users/chaitanyasingh/Documents/Project/8/build/_deps/fmt-build",
+  "command": "/usr/bin/clang++  -I/Users/chaitanyasingh/Documents/Project/8/build/_deps/fmt-src/include -g -std=gnu++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -o CMakeFiles/fmt.dir/src/os.cc.o -c /Users/chaitanyasingh/Documents/Project/8/build/_deps/fmt-src/src/os.cc",
+  "file": "/Users/chaitanyasingh/Documents/Project/8/build/_deps/fmt-src/src/os.cc",
+  "output": "_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o"
+}
+]
